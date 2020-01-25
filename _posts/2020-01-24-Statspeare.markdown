@@ -175,10 +175,6 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <div id="conclusion" class="section level2">
 <h2>Conclusion</h2>
 <p>Statspeare can equip any aspiring data analyst of Shakespeare with the tools needed to hit the ground running with quality analysis.</p>
-<div id="contact-me" class="section level5">
-<h5>Contact Me</h5>
-<p>This package is developed and supported by AJ Fabry. If you have any questions, comments, or suggestions, I can be reached at <a href="mailto:afabry@email.sc.edu">afabry@email.sc.edu</a>.</p>
-</div>
 </div>
 
 
