@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Statspeare"
-date:   2020-01-24 21:41:31 -0500
+date: 2020-01-24
 categories: jekyll update
 ---
 
