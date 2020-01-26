@@ -146,58 +146,30 @@ $(document).ready(function(){
 </script>
 <style>
 #section1 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #FD5B78;
 }
 
 #section2 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #FF9966;
 }
 
 #section3 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #FFCC33;
 }
 
 #section4 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #FFFF66;
 }
 
 #section5 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #CCFF00;
 }
 
 #section6 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #AAF0D1;
 }
 
 #section7 {
-<<<<<<< HEAD
-=======
-  height: 100vh;
->>>>>>> 2c05b0ee7d8620160c46426bc84537dccd7df309
   background-color: #50BFE6;
 }
 
