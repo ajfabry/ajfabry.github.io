@@ -146,37 +146,30 @@ $(document).ready(function(){
 </script>
 <style>
 #section1 {
-  height: 100vh;
   background-color: #FD5B78;
 }
 
 #section2 {
-  height: 100vh;
   background-color: #FF9966;
 }
 
 #section3 {
-  height: 100vh;
   background-color: #FFCC33;
 }
 
 #section4 {
-  height: 100vh;
   background-color: #FFFF66;
 }
 
 #section5 {
-  height: 100vh;
   background-color: #CCFF00;
 }
 
 #section6 {
-  height: 100vh;
   background-color: #AAF0D1;
 }
 
 #section7 {
-  height: 100vh;
   background-color: #50BFE6;
 }
 
