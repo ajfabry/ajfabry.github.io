@@ -10,8 +10,8 @@ permalink: /about/
   margin-right: auto;
   width: 40%;" />
 
-I am a software engineer in Columbia, South Carolina. I specialize in securing product software. Currently, I am working as a Software Engineer Intern at Cognito Forms.
+I am a software engineer in Columbia, South Carolina. Currently, I am working as a Software Engineer Intern at Cognito Forms.
 
-You can learn more about my experience on my [LinkedIn](https://www.linkedin.com/in/ajfabry), and you can check out Cognito Forms on our [website](https://www.cognitoforms.com). If you'd like to view my resume, just send me an [email](mailto:ajfabry10@gmail.com).
+You can learn more about my experience on my [LinkedIn](https://www.linkedin.com/in/ajfabry), and you can check out Cognito Forms on our [website](https://www.cognitoforms.com). If you'd like to view my full resume, just send me an [email](mailto:ajfabry10@gmail.com).
 
 [jekyll-organization]: https://github.com/jekyll
